@@ -28,3 +28,5 @@ Create line, bar, scatter, bubble, pie, and box-and-whisker plots using Matplotl
 4. A DataFrame was created using the resample() function in weekly bins and shows the sum of the fares for each week.
 5. An annotated chart showing the total fares by city type is created and saved to the "analysis" folder
 
+![d2](https://user-images.githubusercontent.com/84139825/172228673-465ddccb-3ca0-4cc1-96ba-662ddb161ccd.PNG)
+![PyBer_fare_summary](https://user-images.githubusercontent.com/84139825/172228697-8a1e0afb-3b6c-4bf0-8de6-a1b1309acf44.png)
