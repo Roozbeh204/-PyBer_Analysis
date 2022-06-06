@@ -20,3 +20,11 @@ Create line, bar, scatter, bubble, pie, and box-and-whisker plots using Matplotl
 ![4-6](https://user-images.githubusercontent.com/84139825/172227576-4ec33952-f7cb-4393-a388-82dfcded1216.PNG)
 ![7,8](https://user-images.githubusercontent.com/84139825/172227608-0489f58c-d957-4c41-b3d2-80d763af6fce.PNG)
 
+# Deliverable 2: A multiple-line chart of total fares for each City type
+**Deliverable Requirements**:
+1. A DataFrame was created using the groupby() function on the "type" and "date" columns, and the sum() method is applied on the "fare" column to show the total fare amount for each date and time.
+2. A DataFrame was created using the pivot() function where the index is the "date," the columns are the city "type," and the values are the "fare."
+3. A DataFrame was created using the loc method on the date range: 2019-01-01 through 2019-04-29.
+4. A DataFrame was created using the resample() function in weekly bins and shows the sum of the fares for each week.
+5. An annotated chart showing the total fares by city type is created and saved to the "analysis" folder
+
