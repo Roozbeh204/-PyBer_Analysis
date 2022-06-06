@@ -16,7 +16,7 @@ Create line, bar, scatter, bubble, pie, and box-and-whisker plots using Matplotl
 6. A PyBer summary DataFrame is created.
 7. The PyBer summary DataFrame is formatted as shown in the example.
 
-![1-3](https://user-images.githubusercontent.com/84139825/172226585-7c774afa-5378-4cc7-bb44-a6b01ce57dbb.PNG)
-![4-6](https://user-images.githubusercontent.com/84139825/172226625-7e5f9e0d-dbb1-47e6-80f3-859eee4e0d96.PNG)
-![7,8](https://user-images.githubusercontent.com/84139825/172226673-f81c7f94-439f-416e-8c33-ea618c305424.PNG)
+![1-3](https://user-images.githubusercontent.com/84139825/172227540-2a8f3183-a201-48a5-bcac-6ca542d9a7fb.PNG)
+![4-6](https://user-images.githubusercontent.com/84139825/172227576-4ec33952-f7cb-4393-a388-82dfcded1216.PNG)
+![7,8](https://user-images.githubusercontent.com/84139825/172227608-0489f58c-d957-4c41-b3d2-80d763af6fce.PNG)
 
