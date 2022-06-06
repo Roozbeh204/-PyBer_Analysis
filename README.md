@@ -15,3 +15,5 @@ Create line, bar, scatter, bubble, pie, and box-and-whisker plots using Matplotl
 5. The average fare per driver for each city type is calculated.
 6. A PyBer summary DataFrame is created.
 7. The PyBer summary DataFrame is formatted as shown in the example.
+
+![7,8](https://user-images.githubusercontent.com/84139825/172226443-9f044a51-90d7-4154-a4ed-80f13a34fd08.PNG)
